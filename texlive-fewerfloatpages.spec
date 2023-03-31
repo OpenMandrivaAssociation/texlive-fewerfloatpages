@@ -1,6 +1,6 @@
 Name:		texlive-fewerfloatpages
 Version:	58058
-Release:	1
+Release:	2
 Summary:	Reduce the number of unnecessary float pages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fewerfloatpages
