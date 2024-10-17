@@ -3,7 +3,7 @@ Version:	58058
 Release:	2
 Summary:	Reduce the number of unnecessary float pages
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fewerfloatpages
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/fewerfloatpages
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fewerfloatpages.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fewerfloatpages.doc.r%{version}.tar.xz
